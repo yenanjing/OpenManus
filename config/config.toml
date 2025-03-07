@@ -1,6 +1,6 @@
 # Global LLM configuration
 [llm]
-model = "ep-20250212141905-2grjj"
+model = "doubao-pro-32k-functioncall-241028"
 base_url = "https://ark.cn-beijing.volces.com/api/v3"
 api_key = "6104005d-fdfb-4e88-b303-0befeff71dee"
 max_tokens = 8192 
@@ -8,6 +8,6 @@ temperature = 0.0
 
 # Optional configuration for specific LLM models
 [llm.vision]
-model = "ep-20250212141905-2grjj"
+model = "doubao-pro-32k-functioncall-241028"
 base_url = "https://ark.cn-beijing.volces.com/api/v3"
 api_key = "6104005d-fdfb-4e88-b303-0befeff71dee"
