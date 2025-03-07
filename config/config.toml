@@ -1,0 +1,13 @@
+# Global LLM configuration
+[llm]
+model = "QwQ-32B"
+base_url = "http://11.214.9.109:80/v1"
+api_key = "sk-..."
+max_tokens = 8192 
+temperature = 0.0
+
+# Optional configuration for specific LLM models
+[llm.vision]
+model = "QwQ-32B"
+base_url = "http://11.214.9.109:80/v1"
+api_key = "sk-..."
